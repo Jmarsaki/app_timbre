@@ -1,0 +1,6 @@
+Aplicación Frontend con Timbre
+
+Si estás utilizando la aplicación del timbre, sigue estos pasos:
+Coloca los archivos index.html y script.js en un directorio.
+Asegúrate de tener un archivo de sonido ringtone.mp3 en el mismo directorio.
+Abre el archivo index.html en tu navegador web. Puedes hacer esto simplemente haciendo doble clic en el archivo o abriéndolo desde el navegador.                      
